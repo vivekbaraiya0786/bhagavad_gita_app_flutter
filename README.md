@@ -24,6 +24,7 @@ https://github.com/vivekbaraiya0786/bhagavad_gita_app_flutter/assets/126376629/7
 <img  src="https://github.com/vivekbaraiya0786/bhagavad_gita_app_flutter/assets/126376629/c83148d0-09fc-483d-a101-b6d1447bbc78" width="220px">
 
 <img align = "left" src="https://github.com/vivekbaraiya0786/bhagavad_gita_app_flutter/assets/126376629/51e1d7c0-3d84-4631-96c6-3c80914f274e" width="220px">
+<img align = "left" src="https://github.com/vivekbaraiya0786/bhagavad_gita_app_flutter/assets/126376629/8264803e-ae2d-4946-b6d4-295d832e3dbe" width="220px">
 
 
 
