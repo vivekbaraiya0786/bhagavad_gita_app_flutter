@@ -5,6 +5,7 @@ import 'package:bhagvat_geeta_mobile_app/views/screens/chepters.dart';
 import 'package:bhagvat_geeta_mobile_app/views/screens/details_page.dart';
 import 'package:bhagvat_geeta_mobile_app/views/screens/homepage.dart';
 import 'package:bhagvat_geeta_mobile_app/views/screens/sholak_page.dart';
+import 'package:bhagvat_geeta_mobile_app/views/screens/spalshscreen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -42,7 +43,7 @@ void main() async {
       builder: (context, child) {
         return MaterialApp(
           debugShowCheckedModeBanner: false,
-          initialRoute: 'chepter',
+          initialRoute: 'intro',
           theme: AppTheme.lighttheme,
           darkTheme: AppTheme.Darktheme,
           themeMode: (Provider.of<ChangeThemeProvider>(context)
@@ -56,6 +57,7 @@ void main() async {
             'chepter': (context) => Chepter(),
             'sholak': (context) => Shoalakpage(),
             'InfromationPage': (context) => InfromationPage(),
+            'intro': (context) => intro_page(),
           },
         );
       },

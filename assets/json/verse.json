@@ -2,6 +2,8 @@
   {
     "name": "अर्जुनविषादयोग",
     "name_translation": "Arjuna Visada Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -10,7 +12,7 @@
         "descriptionh": "।।1.1।। धृतराष्ट्र बोले (टिप्पणी प0 1.2) - हे संजय! (टिप्पणी प0 1.3) धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से इकट्ठे हुए मेरेे और पाण्डु के पुत्रों ने भी क्या किया?\n ",
         "descriptione": "Dhṛtarāṣṭra said: “O Sanjaya, what did my people and the Pāṇḍavas do, gathered together on the holy field of Kurukshetra, eager for battle?”",
         "transliteration": "dhṛitarāśhtra uvācha\ndharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya\n"
-      },
+        },
       {
         "id": "2",
         "text": "सञ्जय उवाच\n\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा।\n\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत्।।1.2।।\n ",
@@ -101,6 +103,8 @@
   {
     "name": "\"सांख्ययोग\",",
     "name_translation": "Sankhya Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -193,6 +197,8 @@
   {
     "name": "कर्मयोग",
     "name_translation": "Karma Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -284,7 +290,9 @@
   },
   {
     "name": "ज्ञानकर्मसंन्यासयोग",
-    "name_translation": "Jnana Karma Sanyasa Yoga",
+    "name_translation": "Jnana Karma Sanyasa",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -377,6 +385,8 @@
   {
     "name": "कर्मसंन्यासयोग",
     "name_translation": "Karma Sanyasa Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -470,6 +480,8 @@
   {
     "name": "ध्यानयोग",
     "name_translation": "Dhyana Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -561,6 +573,8 @@
   {
     "name": "ज्ञानविज्ञानयोग",
     "name_translation": "Gyaan Vigyana Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -653,6 +667,8 @@
   {
     "name": "अक्षरब्रह्मयोग",
     "name_translation": "Akshara Brahma Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -745,6 +761,8 @@
   {
     "name": "राजविद्याराजगुह्ययोग",
     "name_translation": "Raja Vidya Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -837,6 +855,8 @@
   {
     "name": "विभूतियोग",
     "name_translation": "Vibhooti Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -929,6 +949,8 @@
   {
     "name": "विश्वरूपदर्शनयोग",
     "name_translation": "Vishwaroopa Darshana ",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -1022,6 +1044,8 @@
   {
     "name": "भक्तियोग",
     "name_translation": "Bhakti Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -1111,7 +1135,9 @@
   },
   {
     "name": "क्षेत्र-क्षेत्रज्ञविभागयोग",
-    "name_translation": "Ksetra Ksetrajna Vibhaaga Yoga",
+    "name_translation": "Ksetra Ksetrajna ",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -1201,6 +1227,8 @@
   {
     "name": "गुणत्रयविभागयोग",
     "name_translation": "Gunatraya Vibhaga Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -1293,6 +1321,8 @@
   {
     "name": "पुरुषोत्तमयोग",
     "name_translation": "Purushottama Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -1386,7 +1416,9 @@
 
   {
     "name": "दैवासुरसम्पद्विभागयोग",
-    "name_translation": "Daivasura Sampad Vibhaga Yoga",
+    "name_translation": "Daivasura Sampad  ",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -1477,7 +1509,9 @@
 
   {
     "name": "श्रद्धात्रयविभागयोग",
-    "name_translation": "Sraddhatraya Vibhaga Yoga",
+    "name_translation": "Sraddhatraya Vibhaga ",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",
@@ -1570,6 +1604,8 @@
   {
     "name": "मोक्षसंन्यासयोग",
     "name_translation": "Moksha Sanyaas Yoga",
+    "imageh": "assets/images/bhagvatgeetah.png",
+    "imagee": "assets/images/bhagvatgeetae.png",
     "sholk": [
       {
         "id": "1",

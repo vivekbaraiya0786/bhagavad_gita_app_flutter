@@ -16,6 +16,8 @@ class Chapters {
   String? word_meanings;
   String? descriptionh;
   String? descriptione;
+  String? imageh;
+  String? imagee;
 List<dynamic>? sholk;
 
   // int chapter_number;
@@ -46,6 +48,8 @@ List<dynamic>? sholk;
       required this.descriptionh,
       required this.descriptione,
       required this.sholk,
+      required this.imageh,
+      required this.imagee,
 
       // required this.chapter_number,
       // required this.chapter_summary,
@@ -78,6 +82,8 @@ List<dynamic>? sholk;
       descriptionh: data1['descriptionh'],
       sholk: data1['sholk'],
       descriptione: data1['descriptione'],
+      imageh: data1['imageh'],
+      imagee: data1['imagee'],
 
       // chapter_number: data1['chapter_number'],
       // chapter_summary: data1['chapter_summary'],
